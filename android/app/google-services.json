@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364510510225",
+    "project_id": "projectbaru-5c33c",
+    "storage_bucket": "projectbaru-5c33c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364510510225:android:dc7c540d21ec8464089330",
+        "android_client_info": {
+          "package_name": "com.example.glass_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAKT7qYTLTNFwgalAkIkrQXNPx6ow_8Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
